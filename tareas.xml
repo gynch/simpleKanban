@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="plantillaKanban.xslt"?>
+<tasklist>
+	<task>
+		<id>1</id>
+		<title>Título</title>
+		<description>
+			 Descripcion
+		</description>
+		<status>0</status>
+	</task>
+	<task>
+		<id>2</id>
+		<title>Probando</title>
+		<description>Probando</description>
+		<status>1</status>
+	</task>
+		<task>
+		<id>4</id>
+		<title>Hecho 1</title>
+		<description>Hecho 1</description>
+		<status>2</status>
+	</task>
+</tasklist>
